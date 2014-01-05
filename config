@@ -7,7 +7,7 @@ PREFIX=/usr/local/openresty
 LUA_LIBDIR= $(PREFIX)/luajit/lib
 
 # Lua includes directory
-LUA_INC= $(PREFIX)/luajit/include/luajit-2.0
+LUA_INC= $(PREFIX)/luajit/include/luajit-2.1
 
 # Lua CPATH directory
 LUA_CPATHDIR= $(PREFIX)/lualib
